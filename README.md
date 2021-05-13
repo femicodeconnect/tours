@@ -1,6 +1,10 @@
 ## A Basic Tours App
 
-### Implementation in bits
+![](./homescreen.gif)
+
+[view page](https://femi-ologunwa.github.io/tours-project/)
+
+### Implementation
 
 -  Conditional rendering in App component.
 
