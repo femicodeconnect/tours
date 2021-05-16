@@ -2,7 +2,7 @@
 
 ![](./homescreen.gif)
 
-[view page](https://femicodeconnect.github.io/tours/)
+[view page](https://femicodeconnect.github.io/list-tours/)
 
 ### Implementation
 
